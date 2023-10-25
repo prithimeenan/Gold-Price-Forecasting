@@ -1,4 +1,4 @@
-![image.png](attachment:image.png)
+![image](https://github.com/prithimeenan/Gold-Price-Forecasting/assets/110339157/dde7faf9-396f-4ecf-974c-66b224ddd308)
 
 # Gold-Price-Forecasting
 My objective in this project is to forecast the gold price (per gram) for the next 6 months using historical data. Given the randomness in gold prices, this task will be a significant challenge
